@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**stebonomo89/stebonomo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently learning Python, SQL, Sklearn, Pandas, Matplotlib, Tensorflow,and Keras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m open for collaborations
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me😇: 
+- email: stefano.bonomo@outlook.com - mobile phone: +39 3495125044 - linkedin: www.linkedin.com/in/stefano-bonomo-04271b7b
+
+- ⚡ My Interests😍:
+
+Python;
+Machine learning;
+Deep learning;
+Data science;
+Data analysis.
 -->
