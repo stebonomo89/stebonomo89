@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 Currently learning Python, SQL, Sklearn, Pandas, Matplotlib, Tensorflow,and Keras
+- 🔭 Currently learning Python, SQL, Sklearn, Pandas, Matplotlib, Tensorflow and Keras.
 
-- 👯 I’m open for collaborations
+- 👯 I’m open for collaborations.
 
-- 💬 Ask me about ...
+
 - 📫 How to reach me😇: 
 - email: stefano.bonomo@outlook.com - mobile phone: +39 3495125044 - linkedin: www.linkedin.com/in/stefano-bonomo-04271b7b
 
